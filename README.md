@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello,
+
+I am following this tutorial before I upload all of my projects.
